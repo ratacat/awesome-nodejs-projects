@@ -22,6 +22,8 @@ for a curated list of packages and resources.
 
 ## Developers
 
+* [No Stairs Please MCP](https://nostairsplease.com/mcp) - Remote MCP server built on Cloudflare Workers/TypeScript for searching 2,200+ North American live-music venues, drive-time routing, and booking contacts.
+
 * [Shield](https://github.com/badges/shields) ([website](http://shields.io/)) - Shields badge specification, website and default API server.
 * [David-www](https://github.com/alanshaw/david-www) ([website](https://david-dm.org/)) - David helps keep your project dependencies up to date.
 * [JSON-server](https://github.com/typicode/json-server) - Get a full fake REST API with zero coding in less than 30 seconds (seriously).
